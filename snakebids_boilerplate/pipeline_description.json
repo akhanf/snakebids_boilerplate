@@ -1,0 +1,15 @@
+{
+    "Name": "snakebids_boilerplate - Snakebids Boilerplate contains all the boilerplate you need to create a Snakebids App.",
+    "BIDSVersion": "1.4.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "snakebids_boilerplate",
+            "Version": "0.1.0",
+            "CodeURL": "http://github.com/akhanf/snakebids_boilerplate",
+            "Author": "Ali Khan",
+            "AuthorEmail": "alik@robarts.ca"
+ 
+        }
+    ]
+}
